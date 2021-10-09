@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TipTime" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimaryVariant">#52c7b8</item>
+        <item name="colorOnPrimary">#00675b</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#870d4c</item>
+        <item name="colorSecondaryVariant">#bb4678</item>
+        <item name="colorOnSecondary">#550024</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
